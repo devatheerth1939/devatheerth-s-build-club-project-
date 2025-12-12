@@ -31,6 +31,6 @@ def video_face_detection(m):#m is the camera index or video file path
         except:
             messagebox.showinfo('ALERT',"END OF VIDOE FILE ")
             break 
-
-m=eval(input("Enter camera index (0 for default camera) or video file path in quotes: "))
-video_face_detection(m)#calling the function 
+if __name__=="__main__":
+    m=eval(input("Enter camera index (0 for default camera) or video file path in quotes: "))
+    video_face_detection(m)#calling the function 

@@ -1,3 +1,4 @@
 opencv-python
 numpy
 tkinter (specifically from tkinter import messagebox)
+haarcascade_fronalface.xml(copy paste the haarcascade detector xml file into a file in your computer and save it as .xml)

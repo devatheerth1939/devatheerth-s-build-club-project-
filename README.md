@@ -9,6 +9,8 @@ which usually happens when video file durations is run out . By developing this 
 and the importance of computer visisonn . 
 
 STEPS TO RUN THE FILE :
+
+
 1AFTER INSTALLING THE LIBRARIES LIKE OPENCV,NUMPY,IMPORT TKINTER
 
 
